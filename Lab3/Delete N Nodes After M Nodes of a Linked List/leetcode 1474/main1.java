@@ -1,4 +1,4 @@
-public class main1 {
+
     public ListNode deleteNodes(ListNode head, int m, int n) {
         ListNode pointer = new ListNode(0);
         pointer.next = head;
@@ -21,4 +21,4 @@ public class main1 {
     }
 
 
-}
+
